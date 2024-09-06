@@ -1,0 +1,47 @@
+body{
+  background-color: aquamarine;
+}
+.App {
+    text-align: center;
+    margin-top: 50px;
+   
+  }
+
+
+  input {
+    padding: 8px;
+    margin-right: 5px;
+  }
+
+  button{
+    padding:8px 12px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    
+    
+  }
+  
+  li {
+    margin: 10px 0;
+    display: flex;
+    margin-left:37%;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+    background-color: azure;
+    width:25%;
+    
+  }
+  
+  li button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
